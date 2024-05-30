@@ -474,7 +474,7 @@ y("", "")
 
 
 function zeno() {
-zurl = "https://zenoplay.zenomedia.com/api/zenofm/nowplaying/"+2brqrv6e1hhvv+"/?rand="+ Math.random();
+zurl = "https://zenoplay.zenomedia.com/api/zenofm/nowplaying/"+khoayjerawcuv+"/?rand="+ Math.random();
 if (sa === "fallback") {url = "fallback.php?url="+zurl} else {url = zurl}
 
 d.ajax({
